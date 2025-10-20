@@ -8,13 +8,13 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 ## Gameplay Preview
 
 ### In-Game
-![Gameplay](img1.png)
+![Gameplay](img3.png)
 
 ### Main Menu
-![Main Menu](img2.png)
+![Main Menu](img1.png)
 
 ### Lobby Screen
-![Lobby Screen](img3.png)
+![Lobby Screen](img2.png)
 
 ---
 
