@@ -8,13 +8,13 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 ## Gameplay Preview
 
 ### In-Game
-![Gameplay](36515a84-aa34-455f-b6dc-ea67c5eaf1c9.png)
+![Gameplay](img1.png)
 
 ### Main Menu
-![Main Menu](1550e532-3ce5-4886-8bfe-45e4f992e29e.png)
+![Main Menu](img2.png)
 
 ### Lobby Screen
-![Lobby Screen](278c6961-9371-4a0c-b31c-49504efb3de0.png)
+![Lobby Screen](img3.png)
 
 ---
 
@@ -39,7 +39,7 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 ## Technical Notes
 
 - Built using **Python** and completly rendered using pygame.  
-- The **physics engine** was entirely hand-coded without external libraries.  
+- The **physics engine** was entirely hand-coded with very minimal use of external libraries.  
 - Multiplayer communication uses **UDP sockets** for faster data transfer.  
 
 ---
