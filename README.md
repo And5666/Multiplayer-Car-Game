@@ -10,12 +10,6 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 ### In-Game
 ![Gameplay](img3.png)
 
-### Main Menu
-![Main Menu](img1.png)
-
-### Lobby Screen
-![Lobby Screen](img2.png)
-
 ---
 
 ## Features
@@ -49,4 +43,12 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 - Add sound effects to improve gameplay.
 - Add online multiplayer using servers or peer-to-peer networking.  
 - Add car upgrades and muliple vehicles.
-- Improve UI/UX as this is very basic at the minute.  
+- Improve UI/UX as this is very basic at the minute.
+
+---
+
+### Main Menu
+![Main Menu](img1.png)
+
+### Lobby Screen
+![Lobby Screen](img2.png)
