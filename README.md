@@ -1,7 +1,52 @@
-# Multiplayer-Car-Game
-A realtime multiplayer version of the hill climb racing game
+# Multiplayer Car Game
 
-This project was completed in April 2024. It was done for school coursework.
+A **real-time multiplayer version** of the classic Hill Climb Racing game, developed as part of a school coursework project (April 2024).  
+The project features a **custom-built  2D physics engine**, real-time multiplayer over a **local network**, and car simulation.
 
-The physics engine was made from scratch and then built upon to create the car. The multiplayer only works locally over the same network.
+---
 
+## Gameplay Preview
+
+### In-Game
+![Gameplay](36515a84-aa34-455f-b6dc-ea67c5eaf1c9.png)
+
+### Main Menu
+![Main Menu](1550e532-3ce5-4886-8bfe-45e4f992e29e.png)
+
+### Lobby Screen
+![Lobby Screen](278c6961-9371-4a0c-b31c-49504efb3de0.png)
+
+---
+
+## Features
+
+- **Custom Physics Engine** — Built entirely from scratch to simulate rigidbodys.  
+- **Simulated Car Physics** — A simulated tire model with slip using Pacejka's magic formula.
+- **Local Multiplayer Support** — Race against others connected to the same local network.  
+- **Proceduarl Terrain** — Randomly generated terrain using perlin noise.  
+
+---
+
+## How to Run
+
+1. Run the `server.py` file on the **host computer**.  
+2. Copy the **IPv4 address** displayed in the server console.  
+3. Open the `settings.txt` file and **paste the IP address** there.  
+4. Run `main.py` to start the game.  
+
+---
+
+## Technical Notes
+
+- Built using **Python** and completly rendered using pygame.  
+- The **physics engine** was entirely hand-coded without external libraries.  
+- Multiplayer communication uses **UDP sockets** for faster data transfer.  
+
+---
+
+## Future Improvements
+
+- Add sound effects to improve gameplay.
+- Add online multiplayer using servers or peer-to-peer networking.  
+- Add car upgrades and muliple vehicles.
+- Improve UI/UX as this is very basic at the minute.  
