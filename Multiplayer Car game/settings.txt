@@ -1,0 +1,6 @@
+host ip address on line 2, fps on line 3, background toggle on line 4
+
+192.168.50.204;
+100;
+True;
+
