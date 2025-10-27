@@ -1,7 +1,7 @@
 # Multiplayer Car Game
 
 A **real-time multiplayer version** of the classic Hill Climb Racing game, developed as part of a school coursework project (April 2024).  
-The project features a **custom-built  2D physics engine**, real-time multiplayer over a **local network**, and car simulation.
+The project features a **custom-built  2D physics engine**, real-time multiplayer over a **local network**, and car simulation. All created in Python.
 
 ---
 
@@ -14,7 +14,7 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 
 ## Features
 
-- **Custom Physics Engine** — Built entirely from scratch to simulate rigidbodys.  
+- **Custom Physics Engine** — Built entirely from scratch in Python to simulate rigidbodys.  
 - **Simulated Car Physics** — A simulated tire model with slip using Pacejka's magic formula.
 - **Local Multiplayer Support** — Race against others connected to the same local network.  
 - **Proceduarl Terrain** — Randomly generated terrain using perlin noise.  
