@@ -8,7 +8,8 @@ The project features a **custom-built  2D physics engine**, real-time multiplaye
 ## Gameplay Preview
 
 ### In-Game
-![Gameplay](img3.png)
+
+https://github.com/user-attachments/assets/85f9d4ec-e00c-45bc-a2fc-614bd0c2953f
 
 ---
 
